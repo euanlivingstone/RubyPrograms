@@ -1,2 +1,2 @@
-# p001hello.rb  
+# hello.rb  
 puts 'Hello'  
