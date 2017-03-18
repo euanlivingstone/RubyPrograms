@@ -7,6 +7,8 @@ class String
 end
 
 puts "please enter your name"
-a = gets
+STDOUT.flush
+a = gets.chomp
+
 a.reverse_inplace!
 puts a
